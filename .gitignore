@@ -1,0 +1,6 @@
+# Python runtime artifacts (never commit)
+__pycache__/
+*.pyc
+data/
+*.session
+.env.local
